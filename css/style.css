@@ -3684,8 +3684,8 @@ label[data-shrink=false]+.MuiInputBase-formControl .mui-style-mnn31:focus::-ms-i
 .mui-style-9n980a .swiper {
     width: 100%;
     height: 100%;
-    margin-top: 24px;
-    padding-bottom: 68px;
+    /* margin-top: 24px;
+    padding-bottom: 68px; */
 }
 
 @media(max-width: 575px) {
@@ -3700,10 +3700,10 @@ label[data-shrink=false]+.MuiInputBase-formControl .mui-style-mnn31:focus::-ms-i
     }
 }
 
-.mui-style-9n980a .swiper-slide {
+/* .mui-style-9n980a .swiper-slide {
     width: 357px !important;
     height: 168px !important;
-}
+} */
 
 @media(max-width: 575px) {
     .mui-style-9n980a .swiper-slide {
